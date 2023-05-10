@@ -1,0 +1,18 @@
+#subtitle {
+    animation: fadeInLeftToRightBounce 0.8s ease-in-out;
+}
+
+#counter {
+    animation: fadeInDownToUp 1s;
+}
+
+.btn {
+    transition: 0.1s;
+}
+
+.btn:hover {
+    transform: scale(105%);
+}
+
+
+

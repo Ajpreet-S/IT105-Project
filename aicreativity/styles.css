@@ -1,0 +1,22 @@
+header {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header * {
+    width: fit-content;
+    height: fit-content;
+}
+
+#subtitle {
+    animation: fadeInLeftToRightBounce 0.8s ease-in-out;
+}
+
+.illustration {
+    width: 512px;
+    height: auto;
+}
+
